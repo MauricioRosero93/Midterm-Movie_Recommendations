@@ -1,0 +1,8 @@
+numpy<2
+pandas
+scikit-learn
+flask
+kafka-python
+requests
+scikit-surprise
+scikit-learn
